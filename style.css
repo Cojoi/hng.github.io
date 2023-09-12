@@ -23,6 +23,12 @@ section{
     margin: 20px;
 }
 
+.slack-profile{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .slack-profile img{
     padding: 20px;
 }
