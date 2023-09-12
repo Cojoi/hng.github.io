@@ -23,17 +23,9 @@ section{
     margin: 20px;
 }
 
-.slack-profile {
-    text-align: left;
-    margin: 20px;
+.slack-profile img{
+    padding: 20px;
 }
-
-
-.slack-profile {
-    text-align: center;
-    margin: 20px;
-}
-
 
 .information {
     text-align: left;
